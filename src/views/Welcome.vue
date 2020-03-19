@@ -10,7 +10,7 @@
             <Causes />
             <Projects />
             <Events />
-            <Message />
+            <Build />
             <Testimonials />
             <Articles />
             <Sponsors />
@@ -31,10 +31,10 @@ import Sidebar from '@/components/Sidebar.vue'
 import AboutUs from '@/components/welcome/AboutUs.vue'
 import Activities from '@/components/welcome/Activities.vue'
 import Articles from '@/components/welcome/Articles.vue'
+import Build from '@/components/welcome/Build.vue'
 import Causes from '@/components/welcome/Causes.vue'
 import Events from '@/components/welcome/Events.vue'
 import Gallery from '@/components/welcome/Gallery.vue'
-import Message from '@/components/welcome/Message.vue'
 import Projects from '@/components/welcome/Projects.vue'
 import Promo from '@/components/welcome/Promo.vue'
 import Sponsors from '@/components/welcome/Sponsors.vue'
@@ -50,10 +50,10 @@ export default {
         AboutUs,
         Activities,
         Articles,
+        Build,
         Causes,
         Events,
         Gallery,
-        Message,
         Projects,
         Promo,
         Sponsors,

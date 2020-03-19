@@ -12,15 +12,16 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-4 col-xl-7 offset-xl-4">
                     <h3 class="text-section__title">
-                        Delivering help and hope <br/>to children through sponsorship.
+                        Delivering the Tools Devs Need
+                        <br/>to BUIDL Their Wildest Dreams
                     </h3>
 
                     <p>
-                        Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail, Canthigaster rostrata. Midshipman dartfish Modoc sucker, yellowtail kingfish
+                        Our global community is at work 24/7, creating advanced tools, deploying new services and supporting nascent projects, that BUIDLers will use to create a new world of oppotunities, and a better future for all.
                     </p>
 
-                    <a class="button button--primary" href="index.html#">
-                        Become a BUIDLer</a>
+                    <a class="button button--primary" href="javascript://">
+                        Start BUIDLing Now!</a>
                 </div>
             </div>
         </div>
