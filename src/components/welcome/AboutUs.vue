@@ -7,30 +7,46 @@
                         <span class="heading__pre-title">About Us</span>
 
                         <h2 class="heading__title">
-                            <span>Help is Our</span> <span>Main Goal</span>
+                            <span>Freedom to Wealth™</span> <span>is our agenda</span>
                         </h2>
                     </div>
 
                     <p>
-                        <strong>Thresher shark rudd African lungfish silverside, Red salmon rockfish grunion, garpike zebra danio king-of-the-salmon banjo catfish."</strong>
+                        <strong>Contrary to very popular belief; Bitcoin was NOT designed to make anyone rich.</strong>
                     </p>
 
                     <p>
-                        Sea chub demoiselle whalefish zebra lionfish mud cat pelican eel. Minnow snoek icefish velvet-belly shark, California halibut round stingray northern sea robin. Southern grayling trout-perch
+                        It's purpose and role is to <strong>free you</strong> from the constraints of a financial system working against you.
+                        In 2017, Bitcoin Cash was realized; and with it, the economic tools needed to <strong>save money <em>(on fees);</em></strong> and in turn <strong>grow your own wealth.</strong>
                     </p>
 
                     <p>
-                        Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail, Canthigaster rostrata. Midshipman dartfish Modoc sucker, yellowtail kingfish basslet. Buri chimaera triplespine northern sea robin zingel lancetfish galjoen fish, catla wolffish, mosshead warbonnet</p><a class="button button--primary" href="about.html">More About
-                        </a>
+                        Bitcoin Cash Please was <strong>founded at the start of 2020,</strong> just ahead of the 3rd Bitcoin halving.
+                        Our primary purpose is on <strong>educating</strong> as many people as possible on <strong>how to use these NEW econonic tools</strong> to build and sustain their own wealth, in the face of an impending global economic recession.
+                    </p>
+
+                    <a class="button button--primary" href="javascript://">
+                        Learn more about us</a>
                 </div>
 
                 <div class="col-lg-6 col-xl-5 offset-xl-1">
-                    <div class="info-box"><img class="img--layout" src="@/assets/images/about_layout.png" alt="img"/><img class="img--bg" src="@/assets/images/about-us.jpg" alt="img"/>
-                        <h4 class="info-box__title">We are Awesome Volounteer Team</h4>
+                    <div class="info-box">
+                        <img class="img--layout" src="@/assets/images/about_layout.png" alt="img"/>
+                        <img class="img--bg" src="@/assets/images/about-us.jpg" alt="img"/>
+
+                        <h4 class="info-box__title">We are a Community of Dedicated Volunteers</h4>
 
                         <p>
-                            Gray eel-catfish longnose whiptail catfish smalleye squaretail queen danio unicorn fish shortnose greeneye fusilier fish silver carp nibbler sharksucker tench lookdown catfish</p><a class="info-box__link" href="volunteer.html">Become a volounteer
-                            </a>
+                            Building sustainable wealth doesn't happen overnight.
+                        </p>
+
+                        <p>
+                            Our community is ready to stand by you and support your efforts for the long haul.
+                            In the end, it will be up to YOU to put in the work to be successful.
+                        </p>
+
+                        <a class="info-box__link" href="javascript://">
+                            Become a Volunteer</a>
                     </div>
                 </div>
             </div>

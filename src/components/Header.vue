@@ -15,7 +15,6 @@
                 </div>
 
                 <div class="col-auto">
-                    <!-- main menu start-->
                     <nav>
                         <ul class="main-menu">
                             <li class="main-menu__item main-menu__item--active">
@@ -67,7 +66,7 @@
                         <div class="dropdown-trigger__item"></div>
                     </div>
 
-                    <a class="button button--squared" href="javascript://">
+                    <a class="button button--squared" href="https://causes.cash" target="_blank">
                         <span>Donate</span></a>
                 </div>
             </div>
