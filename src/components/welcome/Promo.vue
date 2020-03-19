@@ -16,7 +16,8 @@
                                 <div class="align-container__item">
                                     <div class="promo-slider__wrapper-1">
                                         <h2 class="promo-slider__title">
-                                            <span>We help all people in need</span> <span>around the world.</span>
+                                            <span>We're Spreading Crypto</span>
+                                            <br /><span>All Across the World</span>
                                         </h2>
                                     </div>
 
@@ -27,7 +28,7 @@
                                     </div>
 
                                     <div class="promo-slider__wrapper-3">
-                                        <a class="button promo-slider__button button--primary" href="javascript://">Discover</a>
+                                        <a class="button promo-slider__button button--primary" href="javascript://">Get Started!</a>
                                     </div>
                                 </div>
                             </div>
@@ -57,11 +58,14 @@
 
                                     <div class="promo-slider__wrapper-2">
                                         <p class="promo-slider__subtitle">
-                                            Bitcoin Cash (BCH) is a cryptocurrency built on the premise of instant payment confirmation and low transaction fees. These features, combined with the increasing desire to have greater control over one’s finances, are quickly propelling Bitcin Cash towards becoming the new global payments standard for consumers and businesses worldwide.
+                                            Bitcoin Cash (BCH) is a cryptocurrency built on the premise of instant payment confirmation and low transaction fees.
+                                            These features, combined with the increasing desire to have greater control over one’s finances, are quickly propelling Bitcin Cash towards becoming the new global payments standard for consumers and businesses worldwide.
                                         </p>
                                     </div>
 
-                                    <div class="promo-slider__wrapper-3"><a class="button promo-slider__button button--primary" href="javascript://">Discover</a></div>
+                                    <div class="promo-slider__wrapper-3">
+                                        <a class="button promo-slider__button button--primary" href="javascript://">Discover</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -82,18 +86,19 @@
                                 <div class="align-container__item">
                                     <div class="promo-slider__wrapper-1">
                                         <h2 class="promo-slider__title">
-                                            <span>Helpo Volounteers</span><br/><span>Around the world.</span>
+                                            <span>Hosting &amp; Promoting</span>
+                                            <br/><span>Open Source Projects</span>
                                         </h2>
                                     </div>
 
                                     <div class="promo-slider__wrapper-2">
                                         <p class="promo-slider__subtitle">
-                                            Gray eel-catfish longnose whiptail catfish smalleye squaretail queen danio unicorn fish shortnose greeneye fusilier fish silver carp nibbler sharksucker tench lookdown catfish
+                                            In addition to building in-house projects, we also support the open source development of projects throughout the community.
                                         </p>
                                     </div>
 
                                     <div class="promo-slider__wrapper-3">
-                                        <a class="button promo-slider__button button--primary" href="javascript://">Discover</a>
+                                        <a class="button promo-slider__button button--primary" href="javascript://">Learn more</a>
                                     </div>
                                 </div>
                             </div>
@@ -102,36 +107,56 @@
                 </div>
             </div>
         </div>
-        <!-- promo socials start-->
+
         <ul class="promo-socials">
             <li class="promo-socials__item"><a class="promo-socials__link" href="javascript://"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             <li class="promo-socials__item"><a class="promo-socials__link" href="javascript://"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
             <li class="promo-socials__item"><a class="promo-socials__link" href="javascript://"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
             <li class="promo-socials__item"><a class="promo-socials__link" href="javascript://"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
         </ul>
-        <!-- promo socials end-->
-        <!-- promo pannel start-->
-        <div class="promo-pannel"><a class="anchor promo-pannel__anchor" href="javascript://about"> <span>Scroll Down</span></a>
-            <div class="promo-pannel__video"><img class="img--bg" src="@/assets/images/video_block.jpg" alt="image"/><a class="video-trigger" href="https://www.youtube.com/watch?v=jduVN643Prc"><span>Watch our video</span><i class="fa fa-play" aria-hidden="true"></i></a></div>
-            <div class="promo-pannel__phones">
-                <p class="promo-pannel__title">Phone numbers</p><a class="promo-pannel__link" href="tel:+180012345678">+ 1800 - 123 456 78</a><a class="promo-pannel__link" href="tel:+18009756511">+ 1800 - 975 65 11</a>
+
+        <div class="promo-pannel">
+            <a class="anchor promo-pannel__anchor" href="javascript://about">
+                <span>Scroll Down</span></a>
+
+            <div class="promo-pannel__video">
+                <img class="img--bg" src="@/assets/images/video_block.jpg" alt="image"/>
+                <!-- <a class="video-trigger" href="https://www.youtube.com/watch?v=jduVN643Prc"> -->
+                <a class="video-trigger" href="https://vimeo.com/398729208">
+                    <span>Watch our video</span>
+                    <i class="fa fa-play" aria-hidden="true"></i>
+                </a>
             </div>
+
+            <div class="promo-pannel__phones">
+                <p class="promo-pannel__title">Phone numbers</p>
+
+                <a class="promo-pannel__link" href="tel:+180012345678">+ 1800 - 123 456 78</a>
+
+                <a class="promo-pannel__link" href="tel:+18009756511">+ 1800 - 975 65 11</a>
+            </div>
+
             <div class="promo-pannel__email">
-                <p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:support@helpo.org">support@helpo.org</a>
+                <p class="promo-pannel__title">Email</p>
+
+                <a class="promo-pannel__link" href="mailto:support@bchplease.org">
+                    support@bchplease.org</a>
             </div>
         </div>
-        <!-- promo pannel end-->
-        <!-- slider nav start-->
+
         <div class="slider__nav slider__nav--promo">
             <div class="promo-slider__count"></div>
+
             <div class="slider__arrows">
-                <div class="slider__prev"><i class="fa fa-chevron-left" aria-hidden="true"></i>
+                <div class="slider__prev">
+                    <i class="fa fa-chevron-left" aria-hidden="true"></i>
                 </div>
-                <div class="slider__next"><i class="fa fa-chevron-right" aria-hidden="true"></i>
+
+                <div class="slider__next">
+                    <i class="fa fa-chevron-right" aria-hidden="true"></i>
                 </div>
             </div>
         </div>
-        <!-- slider nav end-->
     </section>
 </template>
 
