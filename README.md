@@ -1,29 +1,11 @@
-# bchplease.org
+# Welcome to the Documentation<br>for Bitcoin Cash Please :-)
 
-## Project setup
-```
-yarn install
-```
+![Bitcoin Causes Poster](https://bchplease.org/poster.jpg?1582376269)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### https://bchplease.org
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Documentation — __https://docs.bchplease.org__
 
-### Run your unit tests
-```
-yarn test:unit
-```
+### Spreading peer-to-peer money
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+BCH Please is an association dedicated to the spread of __permissionless, peer-to-peer money.__
