@@ -76,7 +76,7 @@
                 <div class="causes-slider offset-margin">
 
                     <!-- Causes -->
-                    <div class="causes-slider__item" v-for="cause of causes" v-bind:key="cause.id">
+                    <div class="causes-slider__item" v-for="cause of causes" :key="cause.id">
                         <div class="causes-item causes-item--primary">
                             <div class="causes-item__body">
                                 <div class="causes-item__top">
