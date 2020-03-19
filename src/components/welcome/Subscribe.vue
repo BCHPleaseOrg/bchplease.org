@@ -8,7 +8,7 @@
 
                 <div class="col-lg-8">
                     <form class="subscribe-form" action="javascript://">
-                        <input class="subscribe-form__input" type="email" name="email" placeholder="Enter your E-mail" required="required"/>
+                        <input class="subscribe-form__input" type="email" name="email" placeholder="Please enter your email address" required="required"/>
                         <input class="subscribe-form__submit" type="submit" value="Submit"/>
                     </form>
                 </div>
