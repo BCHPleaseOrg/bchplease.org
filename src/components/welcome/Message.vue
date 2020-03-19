@@ -1,6 +1,6 @@
 <template>
     <section class="section text-section">
-        <img class="text-section__bg" src="img/text-section.png" alt="img"/>
+        <img class="text-section__bg" src="@/assets/images/text-section.png" alt="img"/>
 
         <div class="container">
             <div class="row">

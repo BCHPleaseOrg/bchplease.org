@@ -5,7 +5,7 @@
                 <div class="col-sm-6 col-lg-3">
                     <div class="footer-logo">
                         <a class="footer-logo__link" href="/">
-                            <img class="footer-logo__img" src="img/logo_white.png" alt="logo"/></a>
+                            <img class="footer-logo__img" src="@/assets/images/logo_white.png" alt="logo"/></a>
                     </div>
 
                     <ul class="footer-socials">
@@ -58,7 +58,10 @@
 
             <div class="row align-items-baseline">
                 <div class="col-md-6">
-                    <p class="footer-copyright">&copy; {{curYear}} Bitcoin Cash Please</p>
+                    <p class="footer-copyright">
+                        &copy; {{curYear}} Bitcoin Cash Please.
+                        All rights reserved.
+                    </p>
                 </div>
 
                 <div class="col-md-6">

@@ -13,7 +13,7 @@
 
         <div class="row no-gutters projects-masonry">
             <div class="col-lg-6 col-xl-4 projects-masonry__item projects-masonry__item--height-1 projects-masonry__item--vertical">
-                <div class="projects-masonry__img"><img class="img--bg" src="img/projects_1.jpg" alt="img"/></div>
+                <div class="projects-masonry__img"><img class="img--bg" src="@/assets/images/projects_1.jpg" alt="img"/></div>
                 <div class="projects-masonry__text" style="background-color: #2EC774;">
                     <div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #49C2DF;">Water Delivery</span>
                         <h3 class="projects-masonry__title"> <a href="cause-details.html">More than One Life Changed</a></h3>
@@ -27,7 +27,7 @@
             </div>
 
             <div class="col-lg-6 col-xl-8 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--horizontal">
-                <div class="projects-masonry__img"><img class="img--bg" src="img/projects_2.jpg" alt="img"/></div>
+                <div class="projects-masonry__img"><img class="img--bg" src="@/assets/images/projects_2.jpg" alt="img"/></div>
                 <div class="projects-masonry__text" style="background-color: #9BC35E;">
                     <div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #F36F8F;">Medicine</span>
                         <h3 class="projects-masonry__title"> <a href="cause-details.html">Helpo for Help</a></h3>
@@ -41,7 +41,7 @@
             </div>
 
             <div class="col-lg-6 col-xl-8 projects-masonry__item projects-masonry__item--height-1 projects-masonry__item--primary">
-                <div class="projects-masonry__img"><img class="img--bg" src="img/projects_3.jpg" alt="img"/>
+                <div class="projects-masonry__img"><img class="img--bg" src="@/assets/images/projects_3.jpg" alt="img"/>
                     <div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #F8AC3A;">Food</span>
                         <h3 class="projects-masonry__title"> <a href="cause-details.html">Help for Children of the East</a></h3>
                         <p>Murray cod clownfish American sole rockfish dojo loach gulper, trout-perch footballfish, pelican eel. Spinefoot coelacanth eagle ray </p>
@@ -54,7 +54,7 @@
             </div>
 
             <div class="col-lg-6 col-xl-4 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--primary">
-                <div class="projects-masonry__img"><img class="img--bg" src="img/projects_4.jpg" alt="img"/>
+                <div class="projects-masonry__img"><img class="img--bg" src="@/assets/images/projects_4.jpg" alt="img"/>
                     <div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #2EC774;">Education</span>
                         <h3 class="projects-masonry__title"> <a href="cause-details.html">Help for Children of the East</a></h3>
                         <p>Murray cod clownfish American sole rockfish dojo loach gulper, trout-perch footballfish, pelican eel. Spinefoot coelacanth eagle ray </p>
@@ -67,7 +67,7 @@
             </div>
 
             <div class="col-lg-6 col-xl-8 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--horizontal">
-                <div class="projects-masonry__img"><img class="img--bg" src="img/projects_5.jpg" alt="img"/></div>
+                <div class="projects-masonry__img"><img class="img--bg" src="@/assets/images/projects_5.jpg" alt="img"/></div>
                 <div class="projects-masonry__text" style="background-color: #E78F51;">
                     <div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #2EC774;">Education</span>
                         <h3 class="projects-masonry__title"> <a href="cause-details.html">Help for Children of the East</a></h3>
@@ -81,7 +81,7 @@
             </div>
 
             <div class="col-lg-6 col-xl-4 projects-masonry__item projects-masonry__item--height-2 projects-masonry__item--primary">
-                <div class="projects-masonry__img"><img class="img--bg" src="img/projects_6.jpg" alt="img"/>
+                <div class="projects-masonry__img"><img class="img--bg" src="@/assets/images/projects_6.jpg" alt="img"/>
                     <div class="projects-masonry__inner"><span class="projects-masonry__badge" style="background: #F36F8F;">Medicine</span>
                         <h3 class="projects-masonry__title"> <a href="cause-details.html">Helpo for Help</a></h3>
                         <p>Gray eel-catfish longnose whiptail catfish smalleye squaretail queen danio unicorn fish shortnose greeneye fusilier fish silver carp</p>

@@ -2,20 +2,40 @@
 
 * [Welcome](README.md)
 
-    * [0.1. What is BCH Please?]()
-    * [0.2. Open source?]()
+    * [0.1. Foreword](welcome/foreword.md)
+    * [0.2. Freedom to Wealth™](welcome/wealth.md)
 
 * [1. Organization]()
 
     * [1.1. About]()
 
-* [5. Legal]()
+* [2. Community]()
 
-    * [5.1. Code of Conduct](legal/CODE_OF_CONDUCT.md)
-    * [5.2. Terms of Use]()
-    * [5.3. Privacy Notice]()
-    * [5.4. Cookie Notice]()
+    * [2.1. About]()
 
-* [5. Appendices]()
+* [3. Education]()
 
-    * [5.1. Charities List](appendices/charities.md)
+    * [3.1. Resources]()
+
+* [4. Development]()
+
+    * [4.1. BUIDLing]()
+
+* [5. Software]()
+
+    * [5.1. About]()
+
+* [6. Hardware]()
+
+    * [6.1. HTC 5G Hub](https://www.htc.com/us/5g/htc-5g-hub/)
+
+* [7. Legal]()
+
+    * [7.1. Code of Conduct](legal/coc.md)
+    * [7.2. Terms of Use]()
+    * [7.3. Privacy Notice](legal/privacy.md)
+    * [7.4. Cookie Notice]()
+
+* [8. Appendices]()
+
+    * [8.1. Charities List](appendices/charities.md)

@@ -24,36 +24,38 @@
 
 <script>
 /* Import components. */
-import AboutUs from '@/components/AboutUs.vue'
-import Articles from '@/components/Articles.vue'
-import Causes from '@/components/Causes.vue'
-import Events from '@/components/Events.vue'
 import Footer from '@/components/Footer.vue'
-import Gallery from '@/components/Gallery.vue'
 import Header from '@/components/Header.vue'
-import Message from '@/components/Message.vue'
-import Projects from '@/components/Projects.vue'
-import Promo from '@/components/Promo.vue'
-import Services from '@/components/Services.vue'
 import Sidebar from '@/components/Sidebar.vue'
-import Sponsors from '@/components/Sponsors.vue'
-import Subscribe from '@/components/Subscribe.vue'
-import Testimonials from '@/components/Testimonials.vue'
+
+import AboutUs from '@/components/welcome/AboutUs.vue'
+import Articles from '@/components/welcome/Articles.vue'
+import Causes from '@/components/welcome/Causes.vue'
+import Events from '@/components/welcome/Events.vue'
+import Gallery from '@/components/welcome/Gallery.vue'
+import Message from '@/components/welcome/Message.vue'
+import Projects from '@/components/welcome/Projects.vue'
+import Promo from '@/components/welcome/Promo.vue'
+import Services from '@/components/welcome/Services.vue'
+import Sponsors from '@/components/welcome/Sponsors.vue'
+import Subscribe from '@/components/welcome/Subscribe.vue'
+import Testimonials from '@/components/welcome/Testimonials.vue'
 
 export default {
     components: {
+        Footer,
+        Header,
+        Sidebar,
+
         AboutUs,
         Articles,
         Causes,
         Events,
-        Footer,
         Gallery,
-        Header,
         Message,
         Projects,
         Promo,
         Services,
-        Sidebar,
         Sponsors,
         Subscribe,
         Testimonials,

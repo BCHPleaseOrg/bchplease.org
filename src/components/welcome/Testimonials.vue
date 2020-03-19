@@ -2,8 +2,8 @@
     <section class="section testimonials--style-2">
         <div class="testimonials--style-2__bg jarallax">
             <picture>
-                <source srcset="img/testimonials_2.jpg" media="(min-width: 992px)"/>
-                <img class="jarallax-img" src="img/testimonials_2.jpg" alt="img"/>
+                <source srcset="@/assets/images/testimonials_2.jpg" media="(min-width: 992px)"/>
+                <img class="jarallax-img" src="@/assets/images/testimonials_2.jpg" alt="img"/>
             </picture>
         </div>
 

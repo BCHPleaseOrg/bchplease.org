@@ -1,5 +1,5 @@
 <template>
-    <section class="section events"><img class="events__bg" src="img/events_bg.png" alt="img"/>
+    <section class="section events"><img class="events__bg" src="@/assets/images/events_bg.png" alt="img"/>
         <div class="container">
             <div class="row margin-bottom">
                 <div class="col-12">
@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="event-item">
-                        <div class="event-item__img"><img class="img--bg" src="img/event_1.jpg" alt="img"/></div>
+                        <div class="event-item__img"><img class="img--bg" src="@/assets/images/event_1.jpg" alt="img"/></div>
                         <div class="event-item__content">
                             <h6 class="event-item__title"><a href="index.html#">Help for Language. Voluanteer</a></h6>
 
@@ -33,7 +33,7 @@
 
                 <div class="col-md-6 col-lg-4">
                     <div class="event-item">
-                        <div class="event-item__img"><img class="img--bg" src="img/event_2.jpg" alt="img"/></div>
+                        <div class="event-item__img"><img class="img--bg" src="@/assets/images/event_2.jpg" alt="img"/></div>
                         <div class="event-item__content">
                             <h6 class="event-item__title"><a href="index.html#">The Culture of Africa. Rebirth</a></h6>
 
@@ -48,7 +48,7 @@
 
                 <div class="col-md-6 col-lg-4">
                     <div class="event-item">
-                        <div class="event-item__img"><img class="img--bg" src="img/event_3.jpg" alt="img"/></div>
+                        <div class="event-item__img"><img class="img--bg" src="@/assets/images/event_3.jpg" alt="img"/></div>
                         <div class="event-item__content">
                             <h6 class="event-item__title"><a href="index.html#">Help for Language. Voluanteer</a></h6>
 

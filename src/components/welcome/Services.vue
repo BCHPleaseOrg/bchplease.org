@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="img/icon_1-1.png" alt="img"/>
+                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_1-1.png" alt="img"/>
                             <svg class="icon icon-item__icon icon--red">
                                 <use xlink:href="#donation"></use>
                             </svg>
@@ -31,7 +31,7 @@
 
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="img/icon_2-2.png" alt="img"/>
+                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_2-2.png" alt="img"/>
                             <svg class="icon icon-item__icon icon--orange">
                                 <use xlink:href="#church"></use>
                             </svg>
@@ -44,7 +44,7 @@
 
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="img/icon_3-3.png" alt="img"/>
+                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_3-3.png" alt="img"/>
                             <svg class="icon icon-item__icon icon--green">
                                 <use xlink:href="#blood"></use>
                             </svg>
@@ -57,7 +57,7 @@
 
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="img/icon_4-4.png" alt="img"/>
+                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_4-4.png" alt="img"/>
                             <svg class="icon icon-item__icon icon--blue">
                                 <use xlink:href="#charity"></use>
                             </svg>

@@ -1,6 +1,6 @@
 <template>
     <section class="section blog">
-        <img class="blog__bg" src="img/blog_bg.png" alt="img"/>
+        <img class="blog__bg" src="@/assets/images/blog_bg.png" alt="img"/>
 
         <div class="container">
             <div class="row margin-bottom">
@@ -18,7 +18,7 @@
             <div class="row offset-margin">
                 <div class="col-md-6 col-lg-5 col-xl-4">
                     <div class="blog-item blog-item--style-1">
-                        <div class="blog-item__img"><img class="img--bg" src="img/blog_1.jpg" alt="img"/><span class="blog-item__badge" style="background-color: #49C2DF;">Water Delivery</span></div>
+                        <div class="blog-item__img"><img class="img--bg" src="@/assets/images/blog_1.jpg" alt="img"/><span class="blog-item__badge" style="background-color: #49C2DF;">Water Delivery</span></div>
                         <div class="blog-item__content">
                             <h6 class="blog-item__title"><a href="index.html#">Save the Children's Role in Fight Against Malnutrition Hailed</a></h6>
                             <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail canthigaster</p>
@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-7 col-xl-8">
-                    <div class="blog-item blog-item--style-2"><img class="img--bg" src="img/blog_2.png" alt="img"/>
+                    <div class="blog-item blog-item--style-2"><img class="img--bg" src="@/assets/images/blog_2.png" alt="img"/>
                         <div class="blog-item__content"><span class="blog-item__badge" style="background-color: #2EC774;">Education</span>
                             <h6 class="blog-item__title"><a href="index.html#">Back to the future: Quality education through respect, commitment and accountability</a></h6>
                             <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail canthigaster rostrata. Midshipman dartfish Modoc sucker, yellowtail</p>
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-7 col-xl-8">
-                    <div class="blog-item blog-item--style-2"><img class="img--bg" src="img/blog_3.png" alt="img"/>
+                    <div class="blog-item blog-item--style-2"><img class="img--bg" src="@/assets/images/blog_3.png" alt="img"/>
                         <div class="blog-item__content"><span class="blog-item__badge" style="background-color: #F8AC3A;">Food</span>
                             <h6 class="blog-item__title"><a href="index.html#">Condolences to Families Effected By Flash Floods in Setswetla, Alexandra Township, Johannesburg</a></h6>
                             <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail canthigaster rostrata. Midshipman dartfish Modoc sucker, yellowtail</p>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-md-6 col-lg-5 col-xl-4">
                     <div class="blog-item blog-item--style-1">
-                        <div class="blog-item__img"><img class="img--bg" src="img/blog_4.png" alt="img"/><span class="blog-item__badge" style="background-color: #F36F8F;">Medicine</span></div>
+                        <div class="blog-item__img"><img class="img--bg" src="@/assets/images/blog_4.png" alt="img"/><span class="blog-item__badge" style="background-color: #F36F8F;">Medicine</span></div>
                         <div class="blog-item__content">
                             <h6 class="blog-item__title"><a href="index.html#">Save the Children's Role in Fight Against Malnutrition Hailed</a></h6>
                             <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail canthigaster</p>

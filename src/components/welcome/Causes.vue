@@ -1,5 +1,5 @@
 <template>
-    <section class="section causes"><img class="causes__bg" src="img/causes_img.png" alt="img"/>
+    <section class="section causes"><img class="causes__bg" src="@/assets/images/causes_img.png" alt="img"/>
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-5">
@@ -79,7 +79,7 @@
                                     <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail</p>
                                 </div>
                                 <div class="causes-item__img">
-                                    <div class="causes-item__badge" style="background-color: #49C2DF">Water Delivery</div><img class="img--bg" src="img/causes_1.jpg" alt="img"/>
+                                    <div class="causes-item__badge" style="background-color: #49C2DF">Water Delivery</div><img class="img--bg" src="@/assets/images/causes_1.jpg" alt="img"/>
                                 </div>
                                 <div class="causes-item__lower">
                                     <div class="progress-bar">
@@ -104,7 +104,7 @@
                                     <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail</p>
                                 </div>
                                 <div class="causes-item__img">
-                                    <div class="causes-item__badge" style="background-color: #F36F8F">Medicine</div><img class="img--bg" src="img/causes_2.jpg" alt="img"/>
+                                    <div class="causes-item__badge" style="background-color: #F36F8F">Medicine</div><img class="img--bg" src="@/assets/images/causes_2.jpg" alt="img"/>
                                 </div>
                                 <div class="causes-item__lower">
                                     <div class="progress-bar">
@@ -129,7 +129,7 @@
                                     <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail</p>
                                 </div>
                                 <div class="causes-item__img">
-                                    <div class="causes-item__badge" style="background-color: #2EC774">Education</div><img class="img--bg" src="img/causes_3.jpg" alt="img"/>
+                                    <div class="causes-item__badge" style="background-color: #2EC774">Education</div><img class="img--bg" src="@/assets/images/causes_3.jpg" alt="img"/>
                                 </div>
                                 <div class="causes-item__lower">
                                     <div class="progress-bar">
@@ -154,7 +154,7 @@
                                     <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail</p>
                                 </div>
                                 <div class="causes-item__img">
-                                    <div class="causes-item__badge" style="background-color: #F8AC3A">Food</div><img class="img--bg" src="img/causes_4.jpg" alt="img"/>
+                                    <div class="causes-item__badge" style="background-color: #F8AC3A">Food</div><img class="img--bg" src="@/assets/images/causes_4.jpg" alt="img"/>
                                 </div>
                                 <div class="causes-item__lower">
                                     <div class="progress-bar">

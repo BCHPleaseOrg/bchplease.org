@@ -9,8 +9,8 @@
 
                     <div class="header-logo">
                         <a class="header-logo__link" href="index.html">
-                            <img class="header-logo__img logo--light" src="img/logo_white.png" alt="logo"/>
-                            <img class="header-logo__img logo--dark" src="img/logo_dark.png" alt="logo"/></a>
+                            <img class="header-logo__img logo--light" src="@/assets/images/logo_white.png" alt="logo"/>
+                            <img class="header-logo__img logo--dark" src="@/assets/images/logo_dark.png" alt="logo"/></a>
                         </div>
                 </div>
 

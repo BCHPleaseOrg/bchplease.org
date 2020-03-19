@@ -29,7 +29,7 @@
         </div>
         <div class="instagram-slider">
             <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_1.jpg" alt="img"/>
+                <img class="img--bg" src="@/assets/images/ig_1.jpg" alt="img"/>
                 <span class="instagram-slider__icon">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                 </span>
@@ -40,19 +40,7 @@
             </a>
 
             <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_2.jpg" alt="img"/>
-
-                <span class="instagram-slider__icon">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                </span>
-
-                <span class="instagram-slider__icon-hover">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                </span>
-            </a>
-
-            <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_3.jpg" alt="img"/>
+                <img class="img--bg" src="@/assets/images/ig_2.jpg" alt="img"/>
 
                 <span class="instagram-slider__icon">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
@@ -64,7 +52,7 @@
             </a>
 
             <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_4.jpg" alt="img"/>
+                <img class="img--bg" src="@/assets/images/ig_3.jpg" alt="img"/>
 
                 <span class="instagram-slider__icon">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
@@ -76,7 +64,7 @@
             </a>
 
             <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_5.jpg" alt="img"/>
+                <img class="img--bg" src="@/assets/images/ig_4.jpg" alt="img"/>
 
                 <span class="instagram-slider__icon">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
@@ -88,7 +76,7 @@
             </a>
 
             <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_6.jpg" alt="img"/>
+                <img class="img--bg" src="@/assets/images/ig_5.jpg" alt="img"/>
 
                 <span class="instagram-slider__icon">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
@@ -100,7 +88,19 @@
             </a>
 
             <a class="instagram-slider__item" href="index.html#">
-                <img class="img--bg" src="img/ig_4.jpg" alt="img"/>
+                <img class="img--bg" src="@/assets/images/ig_6.jpg" alt="img"/>
+
+                <span class="instagram-slider__icon">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </span>
+
+                <span class="instagram-slider__icon-hover">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </span>
+            </a>
+
+            <a class="instagram-slider__item" href="index.html#">
+                <img class="img--bg" src="@/assets/images/ig_4.jpg" alt="img"/>
 
                 <span class="instagram-slider__icon">
                     <i class="fa fa-instagram" aria-hidden="true"></i>

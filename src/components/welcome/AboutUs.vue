@@ -25,7 +25,7 @@
                 </div>
 
                 <div class="col-lg-6 col-xl-5 offset-xl-1">
-                    <div class="info-box"><img class="img--layout" src="img/about_layout.png" alt="img"/><img class="img--bg" src="img/about-us.jpg" alt="img"/>
+                    <div class="info-box"><img class="img--layout" src="@/assets/images/about_layout.png" alt="img"/><img class="img--bg" src="@/assets/images/about-us.jpg" alt="img"/>
                         <h4 class="info-box__title">We are Awesome Volounteer Team</h4>
 
                         <p>
