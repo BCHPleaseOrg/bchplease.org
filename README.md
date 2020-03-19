@@ -1,4 +1,4 @@
-# Welcome to the Documentation<br>for Bitcoin Cash Please :-)
+# Welcome to the Documentation<br>for Bitcoin Cash Please o(~_^)o
 
 ![Bitcoin Causes Poster](https://bchplease.org/poster.jpg?1582376269)
 
