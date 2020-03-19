@@ -4,12 +4,11 @@
             <div class="row margin-bottom">
                 <div class="col-12">
                     <div class="heading heading--center">
-                        <span class="heading__pre-title">Our Services</span>
+                        <span class="heading__pre-title">Our Activities</span>
 
                         <h2 class="heading__title">
-                            <span>What we do</span>
-                            &nbsp;
-                            <span>for the BCH</span>
+                            <span>How we help others</span>
+                            <br /><span>Build &amp; Sustain Wealth</span>
                         </h2>
                     </div>
                 </div>
@@ -18,52 +17,72 @@
             <div class="row">
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_1-1.png" alt="img"/>
+                        <div class="icon-item__img">
+                            <img class="img--layout" src="@/assets/images/icon_1-1.png" alt="img"/>
+
                             <svg class="icon icon-item__icon icon--red">
                                 <use xlink:href="#donation"></use>
                             </svg>
                         </div>
                         <div class="icon-item__text">
-                            <p>Adoption Help</p>
+                            <p>
+                                Promoting the Spread of
+                                <br />Crypto Adoption
+                            </p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_2-2.png" alt="img"/>
+                        <div class="icon-item__img">
+                            <img class="img--layout" src="@/assets/images/icon_2-2.png" alt="img"/>
+
                             <svg class="icon icon-item__icon icon--orange">
                                 <use xlink:href="#church"></use>
                             </svg>
                         </div>
                         <div class="icon-item__text">
-                            <p>Support BUIDLers</p>
+                            <p>
+                                Developing NEW
+                                <br />Tools &amp; Services
+                            </p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_3-3.png" alt="img"/>
+                        <div class="icon-item__img">
+                            <img class="img--layout" src="@/assets/images/icon_3-3.png" alt="img"/>
+
                             <svg class="icon icon-item__icon icon--green">
                                 <use xlink:href="#blood"></use>
                             </svg>
                         </div>
                         <div class="icon-item__text">
-                            <p>Water Delivery</p>
+                            <p>
+                                Introducing
+                                <br />DRIPP Fundraising
+                            </p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-6 col-lg-3">
                     <div class="icon-item">
-                        <div class="icon-item__img"><img class="img--layout" src="@/assets/images/icon_4-4.png" alt="img"/>
+                        <div class="icon-item__img">
+                            <img class="img--layout" src="@/assets/images/icon_4-4.png" alt="img"/>
+
                             <svg class="icon icon-item__icon icon--blue">
                                 <use xlink:href="#charity"></use>
                             </svg>
                         </div>
                         <div class="icon-item__text">
-                            <p>We Care About</p>
+                            <p>
+                                Supporting Global
+                                <br />Outreach Programs
+                            </p>
                         </div>
                     </div>
                 </div>
