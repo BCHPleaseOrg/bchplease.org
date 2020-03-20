@@ -121,35 +121,6 @@
                         </div>
                     </div>
 
-
-
-
-
-
-                    <div class="causes-slider__item">
-                        <div class="causes-item causes-item--primary">
-                            <div class="causes-item__body">
-                                <div class="causes-item__top">
-                                    <h6 class="causes-item__title"> <a href="cause-details.html">Healthy Food</a></h6>
-                                    <p>Sharksucker sea toad candiru rocket danio tilefish stingray deepwater stingray Sacramento splittail</p>
-                                </div>
-                                <div class="causes-item__img">
-                                    <div class="causes-item__badge" style="background-color: #F8AC3A">Food</div><img class="img--bg" src="@/assets/images/causes_4.jpg" alt="img"/>
-                                </div>
-                                <div class="causes-item__lower">
-                                    <div class="progress-bar">
-                                        <div class="progress-bar__inner" style="width: 50%;">
-                                            <div class="progress-bar__value">50%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-item__details-holder">
-                                        <div class="causes-item__details-item"><span>Goal: </span><span>50 000$</span></div>
-                                        <div class="causes-item__details-item text-right"><span>Pledged: </span><span>25 000$</span></div>
-                                    </div>
-                                </div>
-                            </div><a class="button causes-item__button button--primary" href="index.html#">+ Donate</a>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
