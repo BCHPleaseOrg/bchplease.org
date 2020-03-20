@@ -51,7 +51,7 @@
 
                 <div class="col-md-6 col-lg-7 col-xl-8">
                     <div class="blog-item blog-item--style-2">
-                        <img class="img--bg" src="@/assets/images/blog_2.png" alt="img"/>
+                        <img class="img--bg" :src="articles[1].imgUrl" alt="img"/>
 
                         <div class="blog-item__content">
                             <span class="blog-item__badge" style="background-color: #2EC774;">
@@ -83,7 +83,7 @@
 
                 <div class="col-md-6 col-lg-7 col-xl-8">
                     <div class="blog-item blog-item--style-2">
-                        <img class="img--bg" src="@/assets/images/blog_3.png" alt="img"/>
+                        <img class="img--bg" :src="articles[2].imgUrl" alt="img"/>
 
                         <div class="blog-item__content">
                             <span class="blog-item__badge" style="background-color: #F8AC3A;">
@@ -116,7 +116,7 @@
                 <div class="col-md-6 col-lg-5 col-xl-4">
                     <div class="blog-item blog-item--style-1">
                         <div class="blog-item__img">
-                            <img class="img--bg" src="@/assets/images/blog_4.png" alt="img"/>
+                            <img class="img--bg" :src="articles[3].imgUrl" alt="img"/>
 
                             <span class="blog-item__badge" style="background-color: #F36F8F;">
                                 Medicine
