@@ -7,7 +7,8 @@
                         <span class="heading__pre-title">About Us</span>
 
                         <h2 class="heading__title">
-                            <span>Freedom to Wealth™</span> <span>is our agenda</span>
+                            <span>Freedom to Wealth™</span>
+                            <br /><span>is our agenda</span>
                         </h2>
                     </div>
 
@@ -34,19 +35,19 @@
                         <img class="img--layout" src="@/assets/images/about_layout.png" alt="img"/>
                         <img class="img--bg" src="@/assets/images/about-us.jpg" alt="img"/>
 
-                        <h4 class="info-box__title">We are a Community of Dedicated Volunteers</h4>
+                        <h4 class="info-box__title">Grow Your Own Wealth</h4>
+
+                        <p>
+                            Our community of dedicated volunteers are ready to stand by you and support your efforts for the long haul.
+                        </p>
 
                         <p>
                             Building sustainable wealth doesn't happen overnight.
-                        </p>
-
-                        <p>
-                            Our community is ready to stand by you and support your efforts for the long haul.
-                            In the end, it will be up to YOU to put in the work to be successful.
+                            It will be up to YOU to put in the work to be successful.
                         </p>
 
                         <a class="info-box__link" href="javascript://">
-                            Become a Volunteer</a>
+                            Become a Wealth Volunteer</a>
                     </div>
                 </div>
             </div>
