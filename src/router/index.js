@@ -21,7 +21,8 @@ const routes = [
 ]
 
 const router = new VueRouter({
-  mode: 'history',
+  mode: 'history', // NOTE: Used for Web deployment
+  // mode: 'hash', // NOTE: Usef for IPFS deployment
   base: process.env.BASE_URL,
   routes
 })

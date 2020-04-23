@@ -121,7 +121,6 @@
 
             <div class="promo-pannel__video">
                 <img class="img--bg" src="@/assets/images/video_block.jpg" alt="image"/>
-                <!-- <a class="video-trigger" href="https://www.youtube.com/watch?v=jduVN643Prc"> -->
                 <a class="video-trigger" href="https://vimeo.com/398729208">
                     <span>Watch our video</span>
                     <i class="fa fa-play" aria-hidden="true"></i>

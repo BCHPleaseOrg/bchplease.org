@@ -20,14 +20,13 @@
 
                         <ul class="aside-menu__sub-list">
                             <li><a href="javascript://"><span>About</span></a></li>
+                            <li><a href="javascript://"><span>Documentation</span></a></li>
                             <li><a href="javascript://"><span>Donors & Partners</span></a></li>
                             <li><a href="javascript://"><span>Become a Volunteer</span></a></li>
                             <li><a href="javascript://"><span>Events</span></a></li>
                             <li><a href="javascript://"><span>Stories</span></a></li>
                             <li><a href="javascript://"><span>Blog</span></a></li>
-                            <li><a href="javascript://"><span>Gallery</span></a></li>
-                            <li><a href="javascript://"><span>Pricing Plans</span></a></li>
-                            <li><a href="javascript://"><span>FAQ</span></a></li>
+                            <li><a href="javascript://"><span>Photo Gallery</span></a></li>
                         </ul>
                     </li>
 
@@ -40,11 +39,9 @@
 
             <div class="aside-dropdown__item">
                 <ul class="aside-menu">
-                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Documents</a></li>
-                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Information</a></li>
-                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Additional Pages</a></li>
-                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Elements</a></li>
-                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Contacts</a></li>
+                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Our Causes</a></li>
+                    <li class="aside-menu__item"><a class="aside-menu__link" href="javascript://">Our Projects</a></li>
+                    <li class="aside-menu__item"><a class="aside-menu__link" href="https://docs.bchplease.org" target="_blank">Documentation</a></li>
                 </ul>
 
                 <div class="aside-inner">
@@ -54,20 +51,18 @@
 
                 <div class="aside-inner">
                     <span class="aside-inner__title">Phone numbers</span>
-                    <a class="aside-inner__link" href="tel:+180012345678">+ 1800 - 123 456 78</a>
-                    <a class="aside-inner__link" href="tel:+18009756511">+ 1800 - 975 65 11</a>
+                    <a class="aside-inner__link" href="tel:+180012345678">+1 678 981-8818</a>
                 </div>
 
                 <ul class="aside-socials">
-                    <li class="aside-socials__item"><a class="aside-socials__link" href="javascript://"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                    <li class="aside-socials__item"><a class="aside-socials__link" href="javascript://"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                    <li class="aside-socials__item"><a class="aside-socials__link aside-socials__link--active" href="javascript://"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                    <li class="aside-socials__item"><a class="aside-socials__link" href="javascript://"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li class="aside-socials__item"><a class="aside-socials__link" href="javascript://"><i class="fa fa-reddit" aria-hidden="true"></i></a></li>
+                    <li class="aside-socials__item"><a class="aside-socials__link" href="javascript://"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li class="aside-socials__item"><a class="aside-socials__link" href="javascript://"><i class="fa fa-github" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
 
             <div class="aside-dropdown__item">
-                <a class="button button--squared" href="javascript://">
+                <a class="button button--squared" href="https://causes.cash" target="_blank">
                     <span>Donate</span></a>
             </div>
         </div>

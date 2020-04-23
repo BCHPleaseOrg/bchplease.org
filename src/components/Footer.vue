@@ -9,10 +9,25 @@
                     </div>
 
                     <ul class="footer-socials">
-                        <li class="footer-socials__item"><a class="footer-socials__link" href="javascript://"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li class="footer-socials__item"><a class="footer-socials__link" href="javascript://"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li class="footer-socials__item"><a class="footer-socials__link" href="javascript://"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li class="footer-socials__item"><a class="footer-socials__link" href="javascript://"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li class="footer-socials__item">
+                            <a class="footer-socials__link" href="javascript://">
+                                <i class="fa fa-reddit" aria-hidden="true"></i></a>
+                        </li>
+
+                        <li class="footer-socials__item">
+                            <a class="footer-socials__link" href="javascript://">
+                                <i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        </li>
+
+                        <li class="footer-socials__item">
+                            <a class="footer-socials__link" href="javascript://">
+                                <i class="fa fa-gitlab" aria-hidden="true"></i></a>
+                        </li>
+
+                        <li class="footer-socials__item">
+                            <a class="footer-socials__link" href="https://bchplease.slack.com" target="_blank">
+                                <i class="fa fa-slack" aria-hidden="true"></i></a>
+                        </li>
                     </ul>
                 </div>
 
@@ -25,7 +40,7 @@
                         </p>
 
                         <p class="footer-contacts__phone">
-                            Phone: <a href="tel:+31859644725">+31 85 964 47 25</a>
+                            Phone: <a href="javascript://">+1 678 981-8818</a>
                         </p>
 
                         <p class="footer-contacts__mail">
@@ -47,12 +62,16 @@
                             <li class="footer-menu__item"><a class="footer-menu__link" href="https://causes.cash" target="blank">Causes</a></li>
                         </ul>
                     </nav>
-                    <!-- footer nav end-->
                 </div>
 
                 <div class="col-sm-6 col-lg-3">
                     <h4 class="footer__title">Donate</h4>
-                    <p>Help Us Change the Lives of Children in World</p><a class="button footer__button button--filled" href="javascript://">Donate</a>
+
+                    <p>
+                        Help Us Give the <strong class="text-white">Freedom to Wealth™</strong> to Millions All Over World
+                    </p>
+
+                    <a class="button footer__button button--filled" href="https://causes.cash" target="_blank">Donate</a>
                 </div>
             </div>
 
