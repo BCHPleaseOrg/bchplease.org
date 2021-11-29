@@ -1,7 +1,7 @@
 {
   "name": "bchplease.org",
-  "version": "0.1.0",
-  "private": true,
+  "version": "21.11.28",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
