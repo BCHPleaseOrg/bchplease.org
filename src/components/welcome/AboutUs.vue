@@ -8,7 +8,7 @@
 
                         <h2 class="heading__title">
                             <span>Freedom to Wealth™</span>
-                            <br /><span>is our agenda</span>
+                            <br /><span>is our mission</span>
                         </h2>
                     </div>
 
@@ -22,7 +22,7 @@
                     </p>
 
                     <p>
-                        Bitcoin Cash Please was <strong>founded at the start of 2020,</strong> just ahead of the 3rd Bitcoin halving.
+                        Bitcoin Please was <strong>founded at the start of 2020,</strong> just ahead of the 3rd Bitcoin halving.
                         Our primary purpose is on <strong>educating</strong> as many people as possible on <strong>how to use these NEW econonic tools</strong> to build and sustain their own wealth, in the face of an impending global economic recession.
                     </p>
 

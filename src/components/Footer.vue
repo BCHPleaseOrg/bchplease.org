@@ -65,22 +65,34 @@
                 </div>
 
                 <div class="col-sm-6 col-lg-3">
-                    <h4 class="footer__title">Donate</h4>
+                    <h4 class="footer__title">Join Us</h4>
 
                     <p>
                         Help Us Give the <strong class="text-white">Freedom to Wealth™</strong> to Millions All Over World
                     </p>
 
-                    <a class="button footer__button button--filled" href="https://causes.cash" target="_blank">Donate</a>
+                    <a class="button footer__button button--filled" href="https://join.slack.com/t/bchplease/shared_invite/zt-e7jj03j5-vJbe47kNrPBjTgTXwLNRkA" target="_blank">Join Our Slack</a>
                 </div>
             </div>
 
             <div class="row align-items-baseline">
                 <div class="col-md-6">
                     <p class="footer-copyright">
-                        &copy; {{curYear}} Bitcoin Cash Please.
+                        &copy; {{curYear}} Bitcoin Please.
                         All rights reserved.
                     </p>
+
+                    <small>
+                        <a href="https://explorer.bitcoin.com/bch/address/bitcoincash:qqvl7fwcthhhntsew056t8007pw55k258vmlm053fy" target="_blank" style="text-decoration:none">
+                            Send <strong class="text-success">BCH</strong> <i class="fa fa-heart text-danger" aria-hidden="true"></i> → bitcoincash:qqvl7fwcthhhntsew056t8007pw55k258vmlm053fy</a>
+                    </small>
+
+                    <br />
+
+                    <small>
+                        <a href="https://explorer.bitcoin.com/bch/address/simpleledger:qqxtz0fw3gs5ndmwjm2we92k20zu3z99uuuxr25a2s" target="_blank" style="text-decoration:none">
+                            Send <strong class="text-info">SLP</strong> <i class="fa fa-heart text-danger" aria-hidden="true"></i> → simpleledger:qqxtz0fw3gs5ndmwjm2we92k20zu3z99uuuxr25a2s</a>
+                    </small>
                 </div>
 
                 <div class="col-md-6">

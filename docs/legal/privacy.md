@@ -1,6 +1,6 @@
 Your privacy is important to us.
 
-This Bitcoin Cash Please (“Organization”) Personal Data Protection Policy sets out how we comply with the provisions of the Personal Data Protection Act 2012 of Singapore (“PDPA”).
+This Bitcoin Please (“Organization”) Personal Data Protection Policy sets out how we comply with the provisions of the Personal Data Protection Act 2012 of Singapore (“PDPA”).
 
 We also want you to understand the way in which we collect, use, disclose and/ or retain your Personal Data. This Personal Data Protection Policy sets out:
 

@@ -1,6 +1,6 @@
 # Bitcoin Chamber of Commerce
 
-__[Bitcoin Cash Please](https://bchplease.org)__ is the leading advocacy group of the widespread use of Bitcoin in the area of commerce.
+__[Bitcoin Please](https://bchplease.org)__ is the leading advocacy group of the widespread use of Bitcoin in the area of commerce.
 
 ### Who We Are
 

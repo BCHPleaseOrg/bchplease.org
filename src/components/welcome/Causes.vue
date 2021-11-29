@@ -14,7 +14,7 @@
 
                         <p>
                             Our community of volunteers work tirelessly to bring awareness and support to dozens of causes across the world.
-                            We're proud to be making a difference in people's live each and every day.
+                            We're proud to be making a difference in people's lives each and every day.
                         </p>
                     </div>
                 </div>
