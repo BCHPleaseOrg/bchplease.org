@@ -25,7 +25,7 @@
                         </li>
 
                         <li class="footer-socials__item">
-                            <a class="footer-socials__link" href="https://bchplease.slack.com" target="_blank">
+                            <a class="footer-socials__link" href="https://join.slack.com/t/bchplease/shared_invite/zt-e7jj03j5-vJbe47kNrPBjTgTXwLNRkA" target="_blank">
                                 <i class="fa fa-slack" aria-hidden="true"></i></a>
                         </li>
                     </ul>
@@ -85,6 +85,13 @@
                     <small>
                         <a href="https://explorer.bitcoin.com/bch/address/bitcoincash:qqvl7fwcthhhntsew056t8007pw55k258vmlm053fy" target="_blank" style="text-decoration:none">
                             Send <strong class="text-success">BCH</strong> <i class="fa fa-heart text-danger" aria-hidden="true"></i> → bitcoincash:qqvl7fwcthhhntsew056t8007pw55k258vmlm053fy</a>
+                    </small>
+
+                    <br />
+
+                    <small>
+                        <a href="https://www.smartscan.cash/address/0x891813423D812A4618fA7892404C2C2Aa6F727fC" target="_blank" style="text-decoration:none">
+                            Send <strong style="color:#74dd54">SBCH</strong> <i class="fa fa-heart text-danger" aria-hidden="true"></i> → 0x891813423D812A4618fA7892404C2C2Aa6F727fC</a>
                     </small>
 
                     <br />
